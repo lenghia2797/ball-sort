@@ -1,0 +1,196 @@
+{
+    "preload": {
+        "files": [
+            {
+                "type": "image",
+                "key": "play",
+                "url": "./assets/images/img_play.png"
+            },
+            {
+                "type": "image",
+                "key": "new_game",
+                "url": "./assets/images/img_new_game.png"
+            },
+            {
+                "type": "image",
+                "key": "background",
+                "url": "./assets/images/img_background.png"
+            },
+            {
+                "type": "image",
+                "key": "tube_back_1",
+                "url": "./assets/images/tube/tube_back_1.png"
+            },
+            {
+                "type": "image",
+                "key": "tube_back_2",
+                "url": "./assets/images/tube/tube_back_2.png"
+            },
+            {
+                "type": "image",
+                "key": "tube_back_3",
+                "url": "./assets/images/tube/tube_back_3.png"
+            },
+            {
+                "type": "image",
+                "key": "tube_back_4",
+                "url": "./assets/images/tube/tube_back_4.png"
+            },
+            {
+                "type": "image",
+                "key": "tube_back_5",
+                "url": "./assets/images/tube/tube_back_5.png"
+            },
+            {
+                "type": "image",
+                "key": "tube_front_1",
+                "url": "./assets/images/tube/tube_front_1.png"
+            },
+            {
+                "type": "image",
+                "key": "tube_front_2",
+                "url": "./assets/images/tube/tube_front_2.png"
+            },
+            {
+                "type": "image",
+                "key": "tube_front_3",
+                "url": "./assets/images/tube/tube_front_3.png"
+            },
+            {
+                "type": "image",
+                "key": "tube_front_4",
+                "url": "./assets/images/tube/tube_front_4.png"
+            },
+            {
+                "type": "image",
+                "key": "tube_front_5",
+                "url": "./assets/images/tube/tube_front_5.png"
+            },
+            {
+                "type": "image",
+                "key": "sole-0",
+                "url": "./assets/images/sole/sole-0.png"
+            },
+            {
+                "type": "image",
+                "key": "sole-1",
+                "url": "./assets/images/sole/sole-1.png"
+            },
+            {
+                "type": "image",
+                "key": "sole-2",
+                "url": "./assets/images/sole/sole-2.png"
+            },
+            {
+                "type": "image",
+                "key": "sole-3",
+                "url": "./assets/images/sole/sole-3.png"
+            },
+            {
+                "type": "image",
+                "key": "sole-4",
+                "url": "./assets/images/sole/sole-4.png"
+            },
+            {
+                "type": "image",
+                "key": "sole-5",
+                "url": "./assets/images/sole/sole-5.png"
+            },
+            {
+                "type": "image",
+                "key": "sole-6",
+                "url": "./assets/images/sole/sole-6.png"
+            },
+            {
+                "type": "image",
+                "key": "sole-7",
+                "url": "./assets/images/sole/sole-7.png"
+            },
+            {
+                "type": "image",
+                "key": "sole-8",
+                "url": "./assets/images/sole/sole-8.png"
+            },
+            {
+                "type": "image",
+                "key": "ball-1",
+                "url": "./assets/images/ball/ball-1.png"
+            },
+            {
+                "type": "image",
+                "key": "ball-2",
+                "url": "./assets/images/ball/ball-2.png"
+            },
+            {
+                "type": "image",
+                "key": "ball-3",
+                "url": "./assets/images/ball/ball-3.png"
+            },
+            {
+                "type": "image",
+                "key": "ball-4",
+                "url": "./assets/images/ball/ball-4.png"
+            },
+            {
+                "type": "image",
+                "key": "ball-5",
+                "url": "./assets/images/ball/ball-5.png"
+            },
+            {
+                "type": "image",
+                "key": "ball-6",
+                "url": "./assets/images/ball/ball-6.png"
+            },
+            {
+                "type": "image",
+                "key": "ball-7",
+                "url": "./assets/images/ball/ball-7.png"
+            },
+            {
+                "type": "image",
+                "key": "ball-8",
+                "url": "./assets/images/ball/ball-8.png"
+            },
+            {
+                "type": "image",
+                "key": "ball-test-1",
+                "url": "./assets/images/ball-test/ball-1.png"
+            },
+            {
+                "type": "image",
+                "key": "ball-test-2",
+                "url": "./assets/images/ball-test/ball-2.png"
+            },
+            {
+                "type": "image",
+                "key": "ball-test-3",
+                "url": "./assets/images/ball-test/ball-3.png"
+            },
+            {
+                "type": "image",
+                "key": "ball-test-4",
+                "url": "./assets/images/ball-test/ball-4.png"
+            },
+            {
+                "type": "image",
+                "key": "ball-test-5",
+                "url": "./assets/images/ball-test/ball-5.png"
+            },
+            {
+                "type": "image",
+                "key": "ball-test-6",
+                "url": "./assets/images/ball-test/ball-6.png"
+            },
+            {
+                "type": "image",
+                "key": "ball-test-7",
+                "url": "./assets/images/ball-test/ball-7.png"
+            },
+            {
+                "type": "image",
+                "key": "ball-test-8",
+                "url": "./assets/images/ball-test/ball-8.png"
+            }
+        ]
+    }
+}
