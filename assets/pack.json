@@ -3,13 +3,82 @@
         "files": [
             {
                 "type": "image",
-                "key": "play",
-                "url": "./assets/images/img_play.png"
+                "key": "board_over",
+                "url": "./assets/images/img_board_over.png"
+            },
+            {
+                "type": "spritesheet",
+                "key": "ss_congrats",
+                "url": "./assets/images/ss_congrats.png",
+                "frameConfig": {
+                    "frameWidth": 32,
+                    "frameHeight": 32
+                }
+            },
+            {
+                "type": "image",
+                "key": "star",
+                "url": "./assets/images/star.png"
+            },
+            {
+                "type": "image",
+                "key": "empty",
+                "url": "./assets/images/buttons/empty.png"
+            },
+            {
+                "type": "image",
+                "key": "challenges",
+                "url": "./assets/images/buttons/challenges.png"
+            },
+            {
+                "type": "image",
+                "key": "classic",
+                "url": "./assets/images/buttons/classic.png"
+            },
+            {
+                "type": "image",
+                "key": "menu",
+                "url": "./assets/images/buttons/menu.png"
+            },
+            {
+                "type": "image",
+                "key": "question",
+                "url": "./assets/images/buttons/question.png"
+            },
+            {
+                "type": "image",
+                "key": "settings",
+                "url": "./assets/images/buttons/settings.png"
+            },
+            {
+                "type": "image",
+                "key": "back2",
+                "url": "./assets/images/buttons/back2.png"
+            },
+            {
+                "type": "image",
+                "key": "next2",
+                "url": "./assets/images/buttons/next2.png"
+            },
+            {
+                "type": "image",
+                "key": "back",
+                "url": "./assets/images/buttons/back.png"
+            },
+            {
+                "type": "image",
+                "key": "next",
+                "url": "./assets/images/buttons/next.png"
+            },
+            {
+                "type": "image",
+                "key": "replay",
+                "url": "./assets/images/buttons/replay.png"
             },
             {
                 "type": "image",
                 "key": "new_game",
-                "url": "./assets/images/img_new_game.png"
+                "url": "./assets/images/buttons/img_new_game.png"
             },
             {
                 "type": "image",
