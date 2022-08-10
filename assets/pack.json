@@ -17,6 +17,11 @@
             },
             {
                 "type": "image",
+                "key": "glove",
+                "url": "./assets/images/glove.png"
+            },
+            {
+                "type": "image",
                 "key": "star",
                 "url": "./assets/images/star.png"
             },
